@@ -1,0 +1,28 @@
+name: DavidLeeJones
+favicon: null
+layout_spectrum: 0.22387335821986198
+typography_spectrum: 0.3966775769367814
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9762597323860973
+  lightness: 0.028684723423793912
+  saturation: 0.21148704714141786
+  rhythmicContrast: 0.11519657610915601
+purpose: []
